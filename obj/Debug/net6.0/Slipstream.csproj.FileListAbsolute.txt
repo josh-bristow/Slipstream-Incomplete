@@ -1,0 +1,6 @@
+C:\Users\joshb\Documents\Personal\Coding\Slipstream\obj\Debug\net6.0\Slipstream.csproj.AssemblyReference.cache
+C:\Users\joshb\Documents\Personal\Coding\Slipstream\obj\Debug\net6.0\Slipstream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshb\Documents\Personal\Coding\Slipstream\obj\Debug\net6.0\Slipstream.AssemblyInfoInputs.cache
+C:\Users\joshb\Documents\Personal\Coding\Slipstream\obj\Debug\net6.0\Slipstream.AssemblyInfo.cs
+C:\Users\joshb\Documents\Personal\Coding\Slipstream\obj\Debug\net6.0\Slipstream.csproj.CoreCompileInputs.cache
+C:\Users\joshb\Documents\Personal\Coding\Slipstream\obj\Debug\net6.0\Slipstream.MvcApplicationPartsAssemblyInfo.cache
